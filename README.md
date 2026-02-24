@@ -93,6 +93,10 @@ ________________________________________<br>
 •	Save: copy running-config startup-config<br>
 ________________________________________<br>
 # Output (Attach Screenshots)
+![WhatsApp Image 2026-02-24 at 9 15 47 AM](https://github.com/user-attachments/assets/b1ec969b-0353-4db0-9abe-54ba97a5310d)
+![WhatsApp Image 2026-02-24 at 9 16 51 AM](https://github.com/user-attachments/assets/e02dd93a-8d19-4c48-8b83-236ea676fb84)
+![WhatsApp Image 2026-02-24 at 9 16 02 AM](https://github.com/user-attachments/assets/bfbbdd2f-b65a-4021-aa3c-5299165a55fb)
+
 •	show ip interface brief on CustomerRouter<br>
 •	show ip route<br>
 •	Successful pings: PC-A → PC-B, PC-A → ISP Server<br>
